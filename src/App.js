@@ -22,7 +22,7 @@ import { Disclosure } from "@headlessui/react";
 const faqs = [
   {
     question: "When is Hack@BUA 2022?",
-    answer: "The event will be held on Saturday, March 26, 2022.",
+    answer: "The event will be held on Sunday, March 27, 2022.",
   },
   {
     question: "Where is the event?",
@@ -47,6 +47,11 @@ const faqs = [
     question: "How large is each team?",
     answer:
       "Each team should be generally between 3-5 people, but we can accommodate larger teams as well.",
+  },
+  {
+    question: "How will lunch be served?",
+    answer:
+      "Participants will receive information on lunch locations on the BU campus once they're registered. The BU campus has numerous great dining locations that partipcipants can choose from.",
   },
 ];
 
@@ -215,7 +220,7 @@ export default function Example() {
                 <h1 className="text-center text-4xl font-extrabold tracking-tight sm:text-6xl lg:text-7xl">
                   <span className="block text-white">Hack@BUA</span>
                   <span className="mt-1 block font-bold text-red-200 text-3xl sm:text-4xl">
-                    26 March, 2022
+                    27 March, 2022
                   </span>
                 </h1>
                 <p className="mt-6 max-w-lg mx-auto text-center text-xl text-white text-shadow sm:max-w-3xl">
@@ -276,7 +281,7 @@ export default function Example() {
                 Event Schedule
               </h2>
               <p class="text-center text-lg text-gray-400 mt-2">
-                March 26, 2022
+                March 27, 2022
               </p>
               {[
                 {
