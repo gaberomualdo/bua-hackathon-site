@@ -18,6 +18,7 @@ import {
 } from "@heroicons/react/outline";
 import { ChevronDownIcon } from "@heroicons/react/solid";
 import { Disclosure } from "@headlessui/react";
+import { Banner } from "./Banner";
 
 const faqs = [
   {
@@ -175,29 +176,28 @@ function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
 }
 
-export default function Example() {
+export default function App() {
   return (
-    <div className="bg-white">
-      <header>
-        <div className="relative bg-white">
-          <div className="flex justify-between items-center max-w-7xl mx-auto px-4 py-6 sm:px-6 md:justify-start md:space-x-10 lg:px-8">
-            <div className="flex justify-start lg:w-0 lg:flex-1">
-              <a href="/">
-                <img className="h-10 w-auto sm:h-12" src="/logo.jpg" alt="" />
-              </a>
-            </div>
-            <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
-              <a
-                href="https://forms.gle/c53LS2YqPQJmBmNA6"
-                target="_blank"
-                className="ml-8 whitespace-nowrap inline-flex items-center justify-center bg-gradient-to-r from-red-600 to-red-600 bg-origin-border px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white hover:from-red-700 hover:to-red-700"
-              >
-                Register Now
-              </a>
-            </div>
+    <div className="bg-white relative">
+      <div className="sticky w-full top-0 bg-white z-50">
+        <Banner />
+        <div className="flex justify-between items-center max-w-7xl mx-auto px-4 py-6 sm:px-6 md:justify-start md:space-x-10 lg:px-8">
+          <div className="flex justify-start lg:w-0 lg:flex-1">
+            <a href="/">
+              <img className="h-10 w-auto sm:h-12" src="/logo.jpg" alt="" />
+            </a>
+          </div>
+          <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
+            <a
+              href="https://forms.gle/c53LS2YqPQJmBmNA6"
+              target="_blank"
+              className="ml-8 whitespace-nowrap inline-flex items-center justify-center bg-gradient-to-r from-red-600 to-red-600 bg-origin-border px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white hover:from-red-700 hover:to-red-700"
+            >
+              Register Now
+            </a>
           </div>
         </div>
-      </header>
+      </div>
 
       <main>
         {/* Hero section */}
