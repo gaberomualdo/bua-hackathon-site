@@ -323,7 +323,32 @@ export default function Example() {
             </div>
           </div>
         </div>
-        <div className="bg-gray-100">
+
+        <div className="bg-gray-100 border-b">
+          <div className="max-w-7xl mx-auto py-12 px-4 sm:py-16 sm:px-6 lg:px-8">
+            <div className="max-w-2xl mx-auto">
+              <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
+                Registration & Cost
+              </h2>
+              <p class="text-center text-lg text-gray-600 mt-6">
+                To register,{" "}
+                <a
+                  className="text-blue-600 hover:underline font-bold"
+                  href="https://forms.gle/c53LS2YqPQJmBmNA6"
+                  target="_blank"
+                >
+                  sign up with this form
+                </a>
+                . The event costs <strong>$50 per school</strong>. Feel free to
+                contact us with any questions or concerns about registration or
+                cost.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        {/* FAQs */}
+        <div className="bg-white">
           <div className="max-w-7xl mx-auto py-12 px-4 sm:py-16 sm:px-6 lg:px-8">
             <div className="max-w-3xl mx-auto divide-y-2 divide-gray-200">
               <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
