@@ -226,8 +226,8 @@ export default function Example() {
                 <p className="mt-6 max-w-lg mx-auto text-center text-xl text-white text-shadow sm:max-w-3xl">
                   Hack@BUA is a hackathon{" "}
                   <strong>for high school students in Greater Boston</strong>.
-                  We're hosted by Boston University Academy, a high school in
-                  central Boston.
+                  We're hosted by Boston University Academy, a Boston school.
+                  The event costs $50/school.
                 </p>
                 <div className="mt-10 max-w-sm mx-auto sm:max-w-none sm:flex sm:justify-center">
                   <div className="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
