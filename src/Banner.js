@@ -1,5 +1,3 @@
-import { SpeakerphoneIcon, XIcon } from "@heroicons/react/outline";
-
 export function Banner(props) {
   return (
     <div className="bg-gray-800">
