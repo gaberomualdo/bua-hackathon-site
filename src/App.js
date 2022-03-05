@@ -251,8 +251,28 @@ export default function App() {
           </div>
         </div>
 
+        <div className="bg-white border-b">
+          <div className="max-w-7xl mx-auto py-12 px-4 sm:py-16 sm:px-6 lg:px-8">
+            <div className="max-w-2xl mx-auto">
+              <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
+                Trophy & Prizes
+              </h2>
+              <p class="text-center text-lg text-gray-600 mt-6">
+                Winners of the hackathon will receive a{" "}
+                <strong>BUA Hackathon Trophy</strong> and each of the team's
+                members will receive Amazon <strong>gift cards</strong>.<br />
+                <br />
+                Prizes will be awarded at the closing ceremony and decided by
+                our team of expert judges – which includes software engineers in
+                the tech industry, top computer science professors in Boston,
+                and more.
+              </p>
+            </div>
+          </div>
+        </div>
+
         {/* FAQs */}
-        <div className="bg-white">
+        <div className="bg-gray-100">
           <div className="max-w-7xl mx-auto py-12 px-4 sm:py-16 sm:px-6 lg:px-8">
             <div className="max-w-3xl mx-auto divide-y-2 divide-gray-200">
               <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
