@@ -10,8 +10,9 @@ import { Banner } from "./Banner";
 
 const faqs = [
   {
-    question: "When is Hack@BUA 2022?",
-    answer: "The event will be held on Sunday, March 27, 2022.",
+    question: "When is Hack@BUA 2023?",
+    answer:
+      "The event will be held in March 2023 — an exact date will be selected soon.",
   },
   {
     question: "Where is the event?",
@@ -24,12 +25,12 @@ const faqs = [
       "The event is for high school students interested in technology and programming. All high school students are welcome regardless of skill level.",
   },
   {
-    question: "How many judges will Hack@BUA 2022 have?",
+    question: "How many judges will Hack@BUA 2023 have?",
     answer:
       "We'll have between 2-5 judges this year, who will be selecting the best projects to win awards at the end of the event.",
   },
   {
-    question: "How many teams will Hack@BUA 2022 have?",
+    question: "How many teams will Hack@BUA 2023 have?",
     answer: "We're aiming to have between 10-15 teams this year.",
   },
   {
@@ -120,14 +121,13 @@ export default function App() {
                 <h1 className="text-center text-4xl font-extrabold tracking-tight sm:text-6xl lg:text-7xl">
                   <span className="block text-white">Hack@BUA</span>
                   <span className="mt-1 block font-bold text-red-200 text-3xl sm:text-4xl">
-                    27 March, 2022
+                    March 2023
                   </span>
                 </h1>
                 <p className="mt-6 max-w-lg mx-auto text-center text-xl text-white text-shadow sm:max-w-3xl">
                   Hack@BUA is a hackathon{" "}
                   <strong>for high school students in Greater Boston</strong>.
                   We're hosted by Boston University Academy, a Boston school.
-                  The event costs $50/school.
                 </p>
                 <div className="mt-10 max-w-sm mx-auto sm:max-w-none sm:flex sm:justify-center">
                   <div className="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
@@ -183,9 +183,7 @@ export default function App() {
               <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
                 Event Schedule
               </h2>
-              <p class="text-center text-lg text-gray-400 mt-2">
-                March 27, 2022
-              </p>
+              <p class="text-center text-lg text-gray-400 mt-2">March 2023</p>
               {[
                 {
                   time: "9:00 AM – 10:00 AM",
@@ -243,9 +241,7 @@ export default function App() {
                 >
                   sign up with this form
                 </a>
-                . The event costs <strong>$50 per school</strong>. Feel free to
-                contact us with any questions or concerns about registration or
-                cost.
+                .
               </p>
             </div>
           </div>
