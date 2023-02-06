@@ -36,7 +36,7 @@ const faqs = [
   {
     question: "How large is each team?",
     answer:
-      "Each team should be generally between 3-5 people, but we can accommodate larger teams as well.",
+      "Each team should be generally between 2-5 people, but we can accommodate larger teams as well.",
   },
   {
     question: "How will lunch be served?",
