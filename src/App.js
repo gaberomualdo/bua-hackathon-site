@@ -12,7 +12,7 @@ const faqs = [
   {
     question: "When is Hack@BUA 2023?",
     answer:
-      "The event will be held in April 2, 2023 — an exact date will be selected soon.",
+      "The event will be held in April 2023 — an exact date will be selected soon.",
   },
   {
     question: "Where is the event?",
@@ -89,12 +89,12 @@ export default function App() {
           </div>
           <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
             <a
-              // href="https://forms.gle/c53LS2YqPQJmBmNA6"
-              // target="_blank"
+              href="https://forms.gle/KtLU19PjPTdzFZxj7"
+              target="_blank"
               rel="noreferrer"
               className="ml-8 whitespace-nowrap inline-flex items-center justify-center bg-gradient-to-r from-red-600 to-red-600 bg-origin-border px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white hover:from-red-700 hover:to-red-700"
             >
-              Registration Coming Soon
+              Register Now
             </a>
           </div>
         </div>
@@ -121,7 +121,7 @@ export default function App() {
                 <h1 className="text-center text-4xl font-extrabold tracking-tight sm:text-6xl lg:text-7xl">
                   <span className="block text-white">Hack@BUA</span>
                   <span className="mt-1 block font-bold text-red-200 text-3xl sm:text-4xl">
-                    April 2, 2023
+                    April 2023
                   </span>
                 </h1>
                 <p className="mt-6 max-w-lg mx-auto text-center text-xl text-white text-shadow sm:max-w-3xl">
@@ -132,12 +132,12 @@ export default function App() {
                 <div className="mt-10 max-w-sm mx-auto sm:max-w-none sm:flex sm:justify-center">
                   <div className="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
                     <a
-                      // href="https://forms.gle/c53LS2YqPQJmBmNA6"
-                      // target="_blank"
+                      href="https://forms.gle/KtLU19PjPTdzFZxj7"
+                      target="_blank"
                       rel="noreferrer"
                       className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-red-700 bg-white hover:bg-red-50 sm:px-8"
                     >
-                      Registration Coming Soon
+                      Register Now
                     </a>
                     <a
                       href="#schedule"
@@ -183,9 +183,7 @@ export default function App() {
               <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
                 Event Schedule
               </h2>
-              <p class="text-center text-lg text-gray-400 mt-2">
-                April 2, 2023
-              </p>
+              <p class="text-center text-lg text-gray-400 mt-2">April 2023</p>
               {[
                 {
                   time: "9:00 AM – 10:00 AM",
@@ -234,16 +232,15 @@ export default function App() {
                 Registration & Cost
               </h2>
               <p class="text-center text-lg text-gray-600 mt-6">
-                Registration is coming soon
-                {/* To register,{" "}
+                To register,{" "}
                 <a
                   className="text-blue-600 hover:underline font-bold"
-                  href="https://forms.gle/c53LS2YqPQJmBmNA6"
+                  href="https://forms.gle/KtLU19PjPTdzFZxj7"
                   rel="noreferrer"
                   target="_blank"
                 >
                   sign up with this form
-                </a> */}
+                </a>
                 .
               </p>
             </div>
@@ -354,12 +351,12 @@ export default function App() {
             </h2>
             <div className="mt-6 space-y-4 sm:space-y-0 sm:flex sm:space-x-5">
               <a
-                // href="https://forms.gle/c53LS2YqPQJmBmNA6"
-                // target="_blank"
+                href="https://forms.gle/KtLU19PjPTdzFZxj7"
+                target="_blank"
                 rel="noreferrer"
                 className="flex items-center justify-center bg-gradient-to-r from-red-600 to-red-600 bg-origin-border px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white hover:from-red-700 hover:to-red-700"
               >
-                Registration Coming Soon
+                Register Now
               </a>
             </div>
           </div>
