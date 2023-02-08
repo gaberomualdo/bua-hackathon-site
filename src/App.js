@@ -123,6 +123,11 @@ export default function App() {
                   <span className="mt-1 block font-bold text-red-200 text-3xl sm:text-4xl">
                     Sunday, April 2nd, 2023
                   </span>
+                  <span className="mt-1 block font-bold text-red-200 text-3xl sm:text-4xl">
+                    Location: BU Photonics Building, Room 906
+                  </span>
+              
+
                 </h1>
                 <p className="mt-6 max-w-lg mx-auto text-center text-xl text-white text-shadow sm:max-w-3xl">
                   Hack@BUA is a hackathon{" "}
@@ -187,11 +192,11 @@ export default function App() {
               {[
                 {
                   time: "9:00 AM – 10:00 AM",
-                  text: "Opening Ceremony, Boston University Photonics Building",
+                  text: "Opening Ceremony, BU Photonics Building, Room 906",
                 },
                 {
                   time: "10:00 AM - 12:30 PM",
-                  text: "Coding & Project Development, Boston University Photonics Building",
+                  text: "Coding & Project Development, BU Photonics Building, Room 906",
                 },
                 {
                   time: "12:30 PM - 1:30 PM",
@@ -199,19 +204,19 @@ export default function App() {
                 },
                 {
                   time: "1:30 PM – 5:00 PM",
-                  text: "Coding & Project Development, Boston University Photonics Building",
+                  text: "Coding & Project Development, BU Photonics Building, Room 906",
                 },
                 {
                   time: "5:00 PM – 6:00 PM",
-                  text: "Presentations & Judging, Boston University Photonics Building",
+                  text: "Presentations & Judging, BU Photonics Building, Room 906",
                 },
                 {
                   time: "6:00 PM – 6:30 PM",
-                  text: "Participant Social Event, Boston University Photonics Building",
+                  text: "Participant Social Event, BU Photonics Building, Room 906",
                 },
                 {
                   time: "6:30 PM – 7:00 PM",
-                  text: "Awards & Closing Ceremony, Boston University Photonics Building",
+                  text: "Awards & Closing Ceremony, BU Photonics Building, Room 906",
                 },
               ].map((e) => (
                 <div className="w-full max-w-6xl mt-6 flex items-center">
