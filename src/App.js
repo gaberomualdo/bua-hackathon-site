@@ -121,7 +121,7 @@ export default function App() {
                 <h1 className="text-center text-4xl font-extrabold tracking-tight sm:text-6xl lg:text-7xl">
                   <span className="block text-white">Hack@BUA</span>
                   <span className="mt-1 block font-bold text-red-200 text-3xl sm:text-4xl">
-                    April 2023
+                    Sunday, April 2nd, 2023
                   </span>
                 </h1>
                 <p className="mt-6 max-w-lg mx-auto text-center text-xl text-white text-shadow sm:max-w-3xl">
