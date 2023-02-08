@@ -12,7 +12,7 @@ const faqs = [
   {
     question: "When is Hack@BUA 2023?",
     answer:
-      "The event will be held in April 2023 — an exact date will be selected soon.",
+      "The event will be held on Sunday, April 2nd, 2023",
   },
   {
     question: "Where is the event?",
@@ -36,7 +36,7 @@ const faqs = [
   {
     question: "How large is each team?",
     answer:
-      "Each team should be generally between 2-5 people, but we can accommodate larger teams as well.",
+      "Each team should be generally between 2-5 people, but we can accommodate larger teams as well. You can also have more than 1 team join per school.",
   },
   {
     question: "How will lunch be served?",
@@ -187,31 +187,31 @@ export default function App() {
               {[
                 {
                   time: "9:00 AM – 10:00 AM",
-                  text: "Opening Ceremony, Boston University Metcalf Hall",
+                  text: "Opening Ceremony, Boston University Photonics Building",
                 },
                 {
                   time: "10:00 AM - 12:30 PM",
-                  text: "Coding & Project Development, Boston University Metcalf Hall",
+                  text: "Coding & Project Development, Boston University Photonics Building",
                 },
                 {
                   time: "12:30 PM - 1:30 PM",
                   text: "Lunch, Boston University Campus",
                 },
                 {
-                  time: "1:30 PM – 4:00 PM",
-                  text: "Coding & Project Development, Boston University Metcalf Hall",
+                  time: "1:30 PM – 5:00 PM",
+                  text: "Coding & Project Development, Boston University Photonics Building",
                 },
                 {
-                  time: "4:00 PM – 4:30 PM",
-                  text: "Presentations & Judging, Boston University Metcalf Hall",
+                  time: "5:00 PM – 6:00 PM",
+                  text: "Presentations & Judging, Boston University Photonics Building",
                 },
                 {
-                  time: "4:30 PM – 5:00 PM",
-                  text: "Participant Social Event, Boston University Metcalf Hall",
+                  time: "6:00 PM – 6:30 PM",
+                  text: "Participant Social Event, Boston University Photonics Building",
                 },
                 {
-                  time: "5:00 PM – 5:30 PM",
-                  text: "Awards & Closing Ceremony, Boston University Metcalf Hall",
+                  time: "6:30 PM – 7:00 PM",
+                  text: "Awards & Closing Ceremony, Boston University Photonics Building",
                 },
               ].map((e) => (
                 <div className="w-full max-w-6xl mt-6 flex items-center">
