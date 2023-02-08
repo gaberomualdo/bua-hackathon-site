@@ -183,7 +183,7 @@ export default function App() {
               <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
                 Event Schedule
               </h2>
-              <p class="text-center text-lg text-gray-400 mt-2">April 2023</p>
+              <p class="text-center text-lg text-gray-400 mt-2">April 2nd, 2023</p>
               {[
                 {
                   time: "9:00 AM – 10:00 AM",
