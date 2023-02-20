@@ -131,7 +131,7 @@ export default function App() {
                 </h1>
                 <p className="mt-6 max-w-lg mx-auto text-center text-xl text-white text-shadow sm:max-w-3xl">
                   Hack@BUA is a hackathon{" "}
-                  <strong>for middle and high school students in the New England area</strong>.
+                  <strong>for middle and high school students in New England</strong>.
                   We're hosted by Boston University Academy, a Boston school.
                 </p>
                 <div className="mt-10 max-w-sm mx-auto sm:max-w-none sm:flex sm:justify-center">
