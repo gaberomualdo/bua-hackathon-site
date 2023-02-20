@@ -22,7 +22,7 @@ const faqs = [
   {
     question: "Who is Hack@BUA for?",
     answer:
-      "The event is for high school students interested in technology and programming. All high school students are welcome regardless of skill level.",
+      "The event is for middle and high school students interested in technology and programming. All middle school and high school students are welcome regardless of skill level.",
   },
   {
     question: "How many judges will Hack@BUA 2023 have?",
