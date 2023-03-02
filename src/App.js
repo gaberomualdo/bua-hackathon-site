@@ -123,7 +123,7 @@ export default function App() {
                   <span className="mt-1 block font-bold text-red-200 text-3xl sm:text-4xl">
                     Sunday, April 2nd, 2023
                   </span>
-                  <span className="mt-1 block font-bold text-red-300 text-3xl sm:text-4xl">
+                  <span className="mt-1 block font-bold text-red-50 text-3xl sm:text-4xl">
                     Registration Deadline: March 19th 2023
                   </span>
               
