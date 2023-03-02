@@ -17,7 +17,7 @@ const faqs = [
   {
     question: "Where is the event?",
     answer:
-      "The event will be held on the Boston University Campus, and is hosted by BU Academy high school students.",
+      "The event will be held on the Boston University Academy Campus, and is hosted by BU Academy high school students.",
   },
   {
     question: "Who is Hack@BUA for?",
@@ -124,7 +124,7 @@ export default function App() {
                     Sunday, April 2nd, 2023
                   </span>
                   <span className="mt-1 block font-bold text-red-200 text-3xl sm:text-4xl">
-                    Location: BU Photonics Building, Room 906
+                    Registration Deadline: March 19th 2023
                   </span>
               
 
