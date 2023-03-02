@@ -196,7 +196,7 @@ export default function App() {
                 },
                 {
                   time: "10:00 AM - 12:30 PM",
-                  text: "Coding & Project Development, BU Photonics Building, Room 906",
+                  text: "Coding & Project Development, BUA Building",
                 },
                 {
                   time: "12:30 PM - 1:30 PM",
@@ -204,19 +204,19 @@ export default function App() {
                 },
                 {
                   time: "1:30 PM – 5:00 PM",
-                  text: "Coding & Project Development, BU Photonics Building, Room 906",
+                  text: "Coding & Project Development, BUA Building",
                 },
                 {
                   time: "5:00 PM – 6:00 PM",
-                  text: "Presentations & Judging, BU Photonics Building, Room 906",
+                  text: "Presentations & Judging, BUA Building",
                 },
                 {
                   time: "6:00 PM – 6:30 PM",
-                  text: "Participant Social Event, BU Photonics Building, Room 906",
+                  text: "Participant Social Event, BUA Building",
                 },
                 {
                   time: "6:30 PM – 7:00 PM",
-                  text: "Awards & Closing Ceremony, BU Photonics Building, Room 906",
+                  text: "Awards & Closing Ceremony, BUA Building",
                 },
               ].map((e) => (
                 <div className="w-full max-w-6xl mt-6 flex items-center">
