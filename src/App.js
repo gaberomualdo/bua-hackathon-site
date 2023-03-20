@@ -123,9 +123,7 @@ export default function App() {
                   <span className="mt-1 block font-bold text-red-200 text-3xl sm:text-4xl">
                     Sunday, April 2nd, 2023
                   </span>
-                  <span className="mt-1 block font-bold text-red-50 text-3xl sm:text-4xl">
-                    Registration Deadline: March 19th 2023
-                  </span>
+                 
               
 
                 </h1>
@@ -145,10 +143,10 @@ export default function App() {
                       Register Now
                     </a>
                     <a
-                      href="#schedule"
+                      href="https://forms.gle/zWjZEjJbKBD5RV78A"
                       className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-red-400 bg-opacity-60 hover:bg-opacity-100 sm:px-8"
                     >
-                      View Schedule
+                      Volunteer Registration
                     </a>
                   </div>
                 </div>
