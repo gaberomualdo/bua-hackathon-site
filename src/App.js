@@ -136,13 +136,13 @@ export default function App() {
                     <a
                       target="_blank"
                       rel="noreferrer"
-                      className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-red-700 bg-white-200 sm:px-8"
+                      className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-red-700 bg-white bg-opacity-60 hover:bg-opacity-60 sm:px-8"
                     >
                       Registration Closed
                     </a>
                     <a
                       href="https://forms.gle/zWjZEjJbKBD5RV78A"
-                      className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-red-700 bg-white bg-opacity-60 hover:bg-opacity-60 sm:px-8"
+                      className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-red-700 bg-white bg-opacity-100 hover:bg-opacity-60 sm:px-8"
                     >
                       Volunteer Registration
                     </a>
