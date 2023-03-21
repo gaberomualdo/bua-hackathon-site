@@ -156,27 +156,6 @@ export default function App() {
         {/* Logo Cloud */}
         <div className="bg-gray-100">
           <div className="max-w-7xl mx-auto py-10 px-4 sm:px-6 lg:px-8">
-            <p className="text-center text-xl font-bold uppercase text-black tracking-wide">
-              Our Sponsors
-            </p>
-            <p className="text-center text-md font-semibold uppercase text-FFD700 tracking-wide">
-              Gold Tier Sponsors $1000
-            </p>
-            <div className="mt-6">
-              <div className="flex flex-col items-center md:flex-row space-y-4 md:space-y-0 md:space-x-16 justify-center">
-                <img
-                  alt="ManuLogo"
-                  className="h-auto w-auto"
-                  src="/manu-mathew-bio-pic-copy-2.jpg"
-                />
-                <p className="text-center text-sm font-semibold uppercase text-gold tracking-wide">
-                  Manu Matthew
-                </p>
-                
-              </div>
-            </div>
-          </div>
-          <div className="max-w-7xl mx-auto py-10 px-4 sm:px-6 lg:px-8">
             <p className="text-center text-sm font-semibold uppercase text-gray-500 tracking-wide">
               Our Partners
             </p>
