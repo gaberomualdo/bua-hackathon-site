@@ -166,7 +166,7 @@ export default function App() {
               <div className="flex flex-col items-center md:flex-row space-y-4 md:space-y-0 md:space-x-16 justify-center">
                 <img
                   alt="Manu Logo"
-                  className="h-30 w-auto"
+                  className="h-25 w-auto"
                   src="/manu-mathew-bio-pic-copy-2.jpg"
                 />
                 <p className="text-center text-sm font-semibold uppercase text-gold tracking-wide">
