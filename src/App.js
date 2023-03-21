@@ -134,12 +134,11 @@ export default function App() {
                 <div className="mt-10 max-w-sm mx-auto sm:max-w-none sm:flex sm:justify-center">
                   <div className="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
                     <a
-                      href="https://forms.gle/KtLU19PjPTdzFZxj7"
                       target="_blank"
                       rel="noreferrer"
-                      className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-red-700 bg-white hover:bg-red-50 sm:px-8"
+                      className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-red-700 bg-white-200 sm:px-8"
                     >
-                      Register Now
+                      Registration Closed
                     </a>
                     <a
                       href="https://forms.gle/zWjZEjJbKBD5RV78A"
