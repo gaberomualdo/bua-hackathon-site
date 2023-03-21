@@ -174,6 +174,19 @@ export default function App() {
                   style={{ filter: "grayscale(100%)", opacity: 0.5 }}
                 />
               </div>
+              <div className="flex flex-col items-center md:flex-row space-y-4 md:space-y-0 md:space-x-16 justify-center">
+                <img
+                  alt="Manu Matthew photo"
+                  className="h-16 w-auto"
+                  src="/bua.svg.png"
+                />
+                <img
+                  alt="BU Logo"
+                  className="h-16 w-auto"
+                  src="/bu.svg.png"
+                  style={{ filter: "grayscale(100%)", opacity: 0.5 }}
+                />
+              </div>
             </div>
           </div>
         </div>
