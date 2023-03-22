@@ -135,10 +135,11 @@ export default function App() {
                   <div className="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
                     <a
                       target="_blank"
+                      href="https://trusted.bu.edu/s/1759/2-bu/giving/interior.aspx?sid=1759&gid=2&pgid=3962&cid=7331&dids=1218&bledit=1&appealcode=WEBBUA"
                       rel="noreferrer"
-                      className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-red-700 bg-white bg-opacity-60 hover:bg-opacity-60 sm:px-8"
+                      className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-red-700 bg-white bg-opacity-100 hover:bg-opacity-60 sm:px-8"
                     >
-                      Registration Closed
+                      Sponsor the event here
                     </a>
                     <a
                       href="https://forms.gle/zWjZEjJbKBD5RV78A"
