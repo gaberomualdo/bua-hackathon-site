@@ -90,10 +90,11 @@ export default function App() {
           <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
             <a
               target="_blank"
+              href="https://forms.gle/fQ11ZxeRuXLrKqje9"
               rel="noreferrer"
               className="ml-8 whitespace-nowrap inline-flex items-center justify-center bg-gradient-to-r from-red-600 to-red-600 bg-origin-border px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white hover:from-red-700 hover:to-red-700"
             >
-              Registration Closed
+              Register Here
             </a>
           </div>
         </div>
@@ -146,6 +147,12 @@ export default function App() {
                       className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-red-700 bg-white bg-opacity-100 hover:bg-opacity-60 sm:px-8"
                     >
                       Volunteer Registration
+                    </a>
+                    <a
+                      href="https://forms.gle/fQ11ZxeRuXLrKqje9"
+                      className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-red-700 bg-white bg-opacity-100 hover:bg-opacity-60 sm:px-8"
+                    >
+                      Participant Registration
                     </a>
                   </div>
                 </div>
