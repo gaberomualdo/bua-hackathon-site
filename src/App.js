@@ -256,19 +256,6 @@ export default function App() {
                   className="h-300 w-auto"
                   src="/nothing.gif"
                 />
-              <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
-                Trophy & Prize 3
-              </h2>
-              <p class="text-center text-lg text-gray-600 mt-6">
-                Winners of the hackathon will receive a{" "}
-                <strong>BUA Hackathon Trophy</strong> and each of the team's
-                members will receive Amazon <strong>gift cards</strong>.<br />
-                <br />
-                Prizes will be awarded at the closing ceremony and decided by
-                our team of expert judges – which includes software engineers in
-                the tech industry, top computer science professors in Boston,
-                and more.
-              </p>
             </div>
           </div>
         </div>
