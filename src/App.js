@@ -249,7 +249,7 @@ export default function App() {
         </div>
 
         <div className="bg-white border-b">
-          <div className="max-w-7xl mx-auto py-12 px-4 sm:py-16 sm:px-6 lg:px-8">
+          <div className="flex flex-col items-center md:flex-row space-y-4 md:space-y-0 md:space-x-16 justify-center">
             <div className="max-w-2xl mx-auto">
               <img
                   alt="BUA Logo"
