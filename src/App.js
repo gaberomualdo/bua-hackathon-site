@@ -253,7 +253,7 @@ export default function App() {
             <div className="max-w-2xl mx-auto">
               <img
                   alt="BUA Logo"
-                  className="h-auto w-auto"
+                  className="h-150 w-auto"
                   src="/nothing.gif"
                 />
               <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
