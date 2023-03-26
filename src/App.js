@@ -251,6 +251,11 @@ export default function App() {
         <div className="bg-white border-b">
           <div className="max-w-7xl mx-auto py-12 px-4 sm:py-16 sm:px-6 lg:px-8">
             <div className="max-w-2xl mx-auto">
+              <img
+                  alt="BUA Logo"
+                  className="h-auto w-auto"
+                  src="/nothing.gif"
+                />
               <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
                 Trophy & Prizes
               </h2>
