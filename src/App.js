@@ -257,7 +257,7 @@ export default function App() {
                   src="/nothing.gif"
                 />
               <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
-                Trophy & Prize 1
+                Trophy & Prize 2
               </h2>
               <p class="text-center text-lg text-gray-600 mt-6">
                 Winners of the hackathon will receive a{" "}
