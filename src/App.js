@@ -253,11 +253,11 @@ export default function App() {
             <div className="max-w-2xl mx-auto">
               <img
                   alt="BUA Logo"
-                  className="h-150 w-auto"
+                  className="h-300 w-auto"
                   src="/nothing.gif"
                 />
               <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
-                Trophy & Prizes
+                Trophy & Prize 1
               </h2>
               <p class="text-center text-lg text-gray-600 mt-6">
                 Winners of the hackathon will receive a{" "}
