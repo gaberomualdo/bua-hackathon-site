@@ -250,14 +250,14 @@ export default function App() {
 
         <div className="bg-white border-b">
           <div className="flex flex-col items-center md:flex-row space-y-4 md:space-y-0 md:space-x-16 justify-center">
-            <div className="max-w-2xl mx-auto">
+            <div className="flex flex-col items-center md:flex-row space-y-4 md:space-y-0 md:space-x-16 justify-center">
               <img
                   alt="BUA Logo"
                   className="h-300 w-auto"
                   src="/nothing.gif"
                 />
               <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
-                Trophy & Prize 2
+                Trophy & Prize 3
               </h2>
               <p class="text-center text-lg text-gray-600 mt-6">
                 Winners of the hackathon will receive a{" "}
