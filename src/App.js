@@ -170,7 +170,7 @@ export default function App() {
               <div className="flex flex-col items-center md:flex-row space-y-4 md:space-y-0 md:space-x-16 justify-center">
                 <img
                   alt="BUA Logo"
-                  className="h-40 w-auto"
+                  className="h-auto w-auto"
                   src="/Gold Tier Sponsors.png"
                 />
               </div>
