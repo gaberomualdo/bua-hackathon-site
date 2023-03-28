@@ -187,32 +187,40 @@ export default function App() {
               <p class="text-center text-lg text-gray-400 mt-2">April 2nd, 2023</p>
               {[
                 {
-                  time: "9:00 AM – 10:00 AM",
+                  time: "8:30 AM – 8:50 AM",
+                  text: "Check-in, BU Photonics Building, Room 906",
+                },
+                {
+                  time: "9:00 AM – 9:30 AM",
                   text: "Opening Ceremony, BU Photonics Building, Room 906",
                 },
                 {
-                  time: "10:00 AM - 12:30 PM",
-                  text: "Coding & Project Development, BUA Building",
+                  time: "9:30 AM - 12:00 PM",
+                  text: "Coding & Project Development, BU Photonics Building, Room 906",
                 },
                 {
-                  time: "12:30 PM - 1:30 PM",
+                  time: "12:00 PM - 1:00 PM",
                   text: "Lunch, Boston University Campus",
                 },
                 {
-                  time: "1:30 PM – 5:00 PM",
-                  text: "Coding & Project Development, BUA Building",
+                  time: "1:00 PM – 4:15 PM",
+                  text: "Coding & Project Development, BU Photonics Building, Room 906",
                 },
                 {
-                  time: "5:00 PM – 6:00 PM",
-                  text: "Presentations & Judging, BUA Building",
+                  time: "4:15 PM – 5:45 PM",
+                  text: "Presentations & Judging, BU Photonics Building, Room 901",
                 },
                 {
-                  time: "6:00 PM – 6:30 PM",
-                  text: "Participant Social Event, BUA Building",
+                  time: "5:45 PM – 6:15 PM",
+                  text: "Participant Social Event, BU Photonics Building, Room 906",
                 },
                 {
-                  time: "6:30 PM – 7:00 PM",
-                  text: "Awards & Closing Ceremony, BUA Building",
+                  time: "6:15 PM – 6:45 PM",
+                  text: "Awards & Closing Ceremony, BU Photonics Building, Room 906",
+                },
+                {
+                  time: "6:45 PM",
+                  text: "Parent Pickup, BU Photonics Building",
                 },
               ].map((e) => (
                 <div className="w-full max-w-6xl mt-6 flex items-center">
