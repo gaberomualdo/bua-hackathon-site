@@ -90,11 +90,10 @@ export default function App() {
           <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
             <a
               target="_blank"
-              href="https://forms.gle/fQ11ZxeRuXLrKqje9"
               rel="noreferrer"
               className="ml-8 whitespace-nowrap inline-flex items-center justify-center bg-gradient-to-r from-red-600 to-red-600 bg-origin-border px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white hover:from-red-700 hover:to-red-700"
             >
-              Register Here
+              Registration Closed
             </a>
           </div>
         </div>
@@ -241,14 +240,7 @@ export default function App() {
                 Registration & Cost
               </h2>
               <p class="text-center text-lg text-gray-600 mt-6">
-                To register,{" "}
-                <a
-                  className="text-blue-600 hover:underline font-bold"
-                  href="https://forms.gle/KtLU19PjPTdzFZxj7"
-                  rel="noreferrer"
-                  target="_blank"
-                >
-                  sign up with this form
+                Registration is now closed. See you next year!
                 </a>
                 .
               </p>
@@ -352,12 +344,12 @@ export default function App() {
             </h2>
             <div className="mt-6 space-y-4 sm:space-y-0 sm:flex sm:space-x-5">
               <a
-                href="https://forms.gle/KtLU19PjPTdzFZxj7"
+                href=
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center justify-center bg-gradient-to-r from-red-600 to-red-600 bg-origin-border px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white hover:from-red-700 hover:to-red-700"
               >
-                Register Now
+                Registration Closed
               </a>
             </div>
           </div>
