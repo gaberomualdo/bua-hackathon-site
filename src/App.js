@@ -241,8 +241,6 @@ export default function App() {
               </h2>
               <p class="text-center text-lg text-gray-600 mt-6">
                 Registration is now closed. See you next year!
-                </a>
-                .
               </p>
             </div>
           </div>
