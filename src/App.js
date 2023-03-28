@@ -12,12 +12,12 @@ const faqs = [
   {
     question: "When is Hack@BUA 2023?",
     answer:
-      "The event will be held on Sunday, April 2nd, 2023",
+      "The event will be held on Sunday, April 2nd, 2023(duh!)",
   },
   {
     question: "Where is the event?",
     answer:
-      "The event will be held on the Boston University Academy Campus, and is hosted by BU Academy high school students.",
+      "The event will be held on the Boston University Campus, and is hosted by BU Academy high school students.",
   },
   {
     question: "Who is Hack@BUA for?",
@@ -27,7 +27,7 @@ const faqs = [
   {
     question: "How many judges will Hack@BUA 2023 have?",
     answer:
-      "We'll have between 2-5 judges this year, who will be selecting the best projects to win awards at the end of the event.",
+      "We'll have 3 judges this year, who will be selecting the best projects to win awards at the end of the event.",
   },
   {
     question: "How many teams will Hack@BUA 2023 have?",
@@ -36,7 +36,7 @@ const faqs = [
   {
     question: "How large is each team?",
     answer:
-      "Each team should be generally between 2-5 people, but we can accommodate larger teams as well. You can also have more than 1 team join per school.",
+      "Each team should have between 2-5 people. You can also have more than 1 team join per school.",
   },
   {
     question: "How will lunch be served?",
