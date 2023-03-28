@@ -31,7 +31,7 @@ const faqs = [
   },
   {
     question: "How many teams will Hack@BUA 2023 have?",
-    answer: "We're aiming to have between 10-15 teams this year.",
+    answer: "We will be having 17 teams this year.",
   },
   {
     question: "How large is each team?",
@@ -55,7 +55,7 @@ const features = [
   {
     name: "Building Collaborative Projects",
     description:
-      "At Hack@BUA, you'll build a project in a collaborative setting, allowing you to work with other students in an exciting environment.",
+      "At Hack@BUA, you'll build a project in a collaborative setting, allowing you to work with other students in an exciting environment!",
     icon: UsersIcon,
   },
   {
@@ -137,7 +137,7 @@ export default function App() {
                       href="https://forms.gle/fQ11ZxeRuXLrKqje9"
                       className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-red-700 bg-white bg-opacity-100 hover:bg-opacity-60 sm:px-8"
                     >
-                      Participant Registration
+                      Registration 
                     </a>
            
                     <a
@@ -344,7 +344,6 @@ export default function App() {
             </h2>
             <div className="mt-6 space-y-4 sm:space-y-0 sm:flex sm:space-x-5">
               <a
-                href=
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center justify-center bg-gradient-to-r from-red-600 to-red-600 bg-origin-border px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white hover:from-red-700 hover:to-red-700"
