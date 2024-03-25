@@ -10,14 +10,14 @@ import { Banner } from "./Banner";
 
 const faqs = [
   {
-    question: "When is Hack@BUA 2023?",
+    question: "When is Hack@BUA 2024?",
     answer:
-      "The event will be held on Sunday, April 2nd, 2023(duh!)",
+      "The event will be held on Sunday, April 7th, 2024",
   },
   {
     question: "Where is the event?",
     answer:
-      "The event will be held on the Boston University Campus, and is hosted by BU Academy high school students.",
+      "The event will be held at BU Academy on the Boston University campus, at 1 University Rd.",
   },
   {
     question: "Who is Hack@BUA for?",
@@ -25,23 +25,19 @@ const faqs = [
       "The event is for middle and high school students interested in technology and programming. All middle school and high school students are welcome regardless of skill level.",
   },
   {
-    question: "How many judges will Hack@BUA 2023 have?",
+    question: "How many judges will Hack@BUA 2024 have?",
     answer:
       "We'll have 3 judges this year, who will be selecting the best projects to win awards at the end of the event.",
   },
   {
-    question: "How many teams will Hack@BUA 2023 have?",
-    answer: "We will be having 17 teams this year.",
-  },
-  {
     question: "How large is each team?",
     answer:
-      "Each team should have between 2-5 people. You can also have more than 1 team join per school.",
+      "Each team should have between 2-5 people. You can also have more than 1 team join per school. If you do not have a team, you may sign up solo and we will assign you a team at the event.",
   },
   {
     question: "How will lunch be served?",
     answer:
-      "Participants will receive information on lunch locations on the BU campus once they're registered. The BU campus has numerous great dining locations that partipcipants can choose from.",
+      "Pizza lunch will be provided, but participants may also choose to purchase lunch from one of the numerous dining locations on BU campus.",
   },
 ];
 
@@ -93,7 +89,7 @@ export default function App() {
               rel="noreferrer"
               className="ml-8 whitespace-nowrap inline-flex items-center justify-center bg-gradient-to-r from-red-600 to-red-600 bg-origin-border px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white hover:from-red-700 hover:to-red-700"
             >
-              Registration Closed
+              Register here!
             </a>
           </div>
         </div>
@@ -120,7 +116,7 @@ export default function App() {
                 <h1 className="text-center text-4xl font-extrabold tracking-tight sm:text-6xl lg:text-7xl">
                   <span className="block text-white">Hack@BUA</span>
                   <span className="mt-1 block font-bold text-red-200 text-3xl sm:text-4xl">
-                    Sunday, April 2nd, 2023
+                    Sunday, April 7th, 2024
                   </span>
                  
               
@@ -163,7 +159,7 @@ export default function App() {
         </div>
 
         {/* Logo Cloud */}
-        <div className="bg-gray-100">
+        {/* <div className="bg-gray-100">
           <div className="max-w-7xl mx-auto py-10 px-4 sm:px-6 lg:px-8">
             <div className="mt-6">
               <div className="flex flex-col items-center md:flex-row space-y-4 md:space-y-0 md:space-x-16 justify-center">
@@ -175,7 +171,7 @@ export default function App() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
         <div className="bg-white border-y" id="schedule">
           <div className="max-w-7xl mx-auto py-12 px-4 sm:py-16 sm:px-6 lg:px-8">
@@ -240,12 +236,12 @@ export default function App() {
                 Registration & Cost
               </h2>
               <p class="text-center text-lg text-gray-600 mt-6">
-                Registration is now closed. See you next year!
+                Registration is $5 a person.
               </p>
             </div>
           </div>
         </div>
-
+{/* 
         <div className="bg-white border-b">
           <div className="flex flex-col items-center md:flex-row space-y-4 md:space-y-0 md:space-x-16 justify-center">
             <div className="flex flex-col items-center md:flex-row space-y-4 md:space-y-0 md:space-x-16 justify-center">
@@ -256,10 +252,10 @@ export default function App() {
                 />
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* FAQs */}
-        <div className="bg-gray-100">
+        <div className="bg-white-100">
           <div className="max-w-7xl mx-auto py-12 px-4 sm:py-16 sm:px-6 lg:px-8">
             <div className="max-w-3xl mx-auto divide-y-2 divide-gray-200">
               <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
@@ -346,7 +342,7 @@ export default function App() {
                 rel="noreferrer"
                 className="flex items-center justify-center bg-gradient-to-r from-red-600 to-red-600 bg-origin-border px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white hover:from-red-700 hover:to-red-700"
               >
-                Registration Closed
+                Register now!
               </a>
             </div>
           </div>
