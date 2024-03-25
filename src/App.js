@@ -86,6 +86,7 @@ export default function App() {
           <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
             <a
               target="_blank"
+              href = "https://docs.google.com/forms/d/e/1FAIpQLSfsgbhoEYwkND9gdBay6Rpk4XLm8Lv0CR_uS5Za4fdo4NqsUw/viewform"
               rel="noreferrer"
               className="ml-8 whitespace-nowrap inline-flex items-center justify-center bg-gradient-to-r from-red-600 to-red-600 bg-origin-border px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white hover:from-red-700 hover:to-red-700"
             >
@@ -179,43 +180,43 @@ export default function App() {
               <h2 className="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
                 Event Schedule
               </h2>
-              <p class="text-center text-lg text-gray-400 mt-2">April 2nd, 2023</p>
+              <p class="text-center text-lg text-gray-400 mt-2">April 7th, 2024</p>
               {[
                 {
-                  time: "8:30 AM – 8:50 AM",
-                  text: "Check-in, BU Photonics Building, Room 906",
+                  time: "8:00 AM – 8:30 AM",
+                  text: "Setup, Volunteer Check-in",
                 },
                 {
-                  time: "9:00 AM – 9:30 AM",
-                  text: "Opening Ceremony, BU Photonics Building, Room 906",
+                  time: "8:30 AM – 9:00 AM",
+                  text: "Participant Check-in",
                 },
                 {
-                  time: "9:30 AM - 12:00 PM",
-                  text: "Coding & Project Development, BU Photonics Building, Room 906",
+                  time: "9:00 AM - 9:30 AM",
+                  text: "Opening Ceremony",
+                },
+                {
+                  time: "10:00 AM - 12:00 PM",
+                  text: "Coding & Project Development",
                 },
                 {
                   time: "12:00 PM - 1:00 PM",
-                  text: "Lunch, Boston University Campus",
+                  text: "Lunch",
                 },
                 {
-                  time: "1:00 PM – 4:15 PM",
-                  text: "Coding & Project Development, BU Photonics Building, Room 906",
+                  time: "1:00 PM – 4:00 PM",
+                  text: "Coding & Project Development",
                 },
                 {
-                  time: "4:15 PM – 5:45 PM",
-                  text: "Presentations & Judging, BU Photonics Building, Room 901",
+                  time: "4:00 PM – 5:30 PM",
+                  text: "Presentations, Judging and Awards Ceremony",
                 },
                 {
-                  time: "5:45 PM – 6:15 PM",
-                  text: "Participant Social Event, BU Photonics Building, Room 906",
+                  time: "5:30 PM – 6:00 PM",
+                  text: "Closing Remarks and Departure",
                 },
                 {
-                  time: "6:15 PM – 6:45 PM",
-                  text: "Awards & Closing Ceremony, BU Photonics Building, Room 906",
-                },
-                {
-                  time: "6:45 PM",
-                  text: "Parent Pickup, BU Photonics Building",
+                  time: "6:00 PM – 6:30 PM",
+                  text: "Parent Pickup, Volunteer Cleanup",
                 },
               ].map((e) => (
                 <div className="w-full max-w-6xl mt-6 flex items-center">
@@ -236,7 +237,7 @@ export default function App() {
                 Registration & Cost
               </h2>
               <p class="text-center text-lg text-gray-600 mt-6">
-                Registration is $5 a person.
+                Registration is $10 per person.
               </p>
             </div>
           </div>
@@ -340,9 +341,10 @@ export default function App() {
               <a
                 target="_blank"
                 rel="noreferrer"
+                href = "https://docs.google.com/forms/d/e/1FAIpQLSfsgbhoEYwkND9gdBay6Rpk4XLm8Lv0CR_uS5Za4fdo4NqsUw/viewform"
                 className="flex items-center justify-center bg-gradient-to-r from-red-600 to-red-600 bg-origin-border px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white hover:from-red-700 hover:to-red-700"
               >
-                Register now!
+                Register here!
               </a>
             </div>
           </div>
