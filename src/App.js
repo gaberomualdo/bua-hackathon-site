@@ -131,7 +131,7 @@ export default function App() {
                 <div className="mt-10 max-w-sm mx-auto sm:max-w-none sm:flex sm:justify-center">
                   <div className="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
                     <a
-                      href="https://forms.gle/fQ11ZxeRuXLrKqje9"
+                      href="https://forms.gle/https://docs.google.com/forms/d/e/1FAIpQLSfsgbhoEYwkND9gdBay6Rpk4XLm8Lv0CR_uS5Za4fdo4NqsUw/viewform"
                       className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-red-700 bg-white bg-opacity-100 hover:bg-opacity-60 sm:px-8"
                     >
                       Registration 
