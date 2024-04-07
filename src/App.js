@@ -203,19 +203,19 @@ export default function App() {
                   text: "Lunch",
                 },
                 {
-                  time: "1:00 PM – 4:00 PM",
+                  time: "1:00 PM – 3:00 PM",
                   text: "Coding & Project Development",
                 },
                 {
-                  time: "4:00 PM – 5:30 PM",
+                  time: "3:00 PM – 4:00 PM",
                   text: "Presentations, Judging and Awards Ceremony",
                 },
                 {
-                  time: "5:30 PM – 6:00 PM",
+                  time: "4:00 PM – 4:30 PM",
                   text: "Closing Remarks and Departure",
                 },
                 {
-                  time: "6:00 PM – 6:30 PM",
+                  time: "4:30 PM – 5:00 PM",
                   text: "Parent Pickup, Volunteer Cleanup",
                 },
               ].map((e) => (
